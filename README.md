@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- ⚡ My [resume] (https://drive.google.com/file/d/1o0UGJ8Y1TdLftkJn7deIs6JmDLrLwOMc/view)
+- 📫 Reach me by [LinkedIn] (https://www.linkedin.com/in/alena-zavadzich/), [email] (alenazavadzich@yahoo.com)
+
+
+
 <!--
 **alenazavadzich/alenazavadzich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
