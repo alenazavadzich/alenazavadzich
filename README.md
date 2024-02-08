@@ -8,7 +8,7 @@
 
 - 🔭 I am **QA Engineer**
 - ⚡ Find out about my professional experince by [resume](https://drive.google.com/file/d/1o0UGJ8Y1TdLftkJn7deIs6JmDLrLwOMc/view)
-- 📫 Contact me by [LinkedIn](https://www.linkedin.com/in/alena-zavadzich/), [mailto:email](alenazavadzich@yahoo.com)
+- 📫 Contact me by [LinkedIn](https://www.linkedin.com/in/alena-zavadzich/), [email](mailto:alenazavadzich@yahoo.com)
 - :woman_technologist: Open to cooperate
 
 
