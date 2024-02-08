@@ -4,12 +4,12 @@
 
 
 
-### Hi there 👋
+## Hello! You are Welcome to find examples of my test documentation.
 
-- 🔭 I am **QA Engineer**
-- ⚡ Find out about my professional experince by [resume](https://drive.google.com/file/d/1o0UGJ8Y1TdLftkJn7deIs6JmDLrLwOMc/view)
-- 📫 Contact me by [LinkedIn](https://www.linkedin.com/in/alena-zavadzich/), [email](mailto:alenazavadzich@yahoo.com)
-- :woman_technologist: Open to cooperate
+###### 🔭 I am manual ***QA Engineer***. I specialise in web and mobile testing.
+###### ⚡ Find out about my professional experince in my [resume](https://drive.google.com/file/d/1o0UGJ8Y1TdLftkJn7deIs6JmDLrLwOMc/view).
+###### :woman_technologist: I am open to a new opportunities.
+###### 📫 Contact me by [Email](mailto:alenazavadzich@yahoo.com), [Telegram](https://t.me/alenazavadzich), [LinkedIn](https://www.linkedin.com/in/alena-zavadzich/).
 
 
 
