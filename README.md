@@ -11,4 +11,4 @@ To know more about my professional experience check out my [Resume](https://driv
 
 I am open to a new opportunities.
 
-Contact me by [Email](mailto:ellenzavadich@yahoo.com), [Telegram](https://t.me/elenazavadich), [LinkedIn](https://www.linkedin.com/in/elenazavadich/).
+Contact me by [Email](mailto:ellenzavadich@yahoo.com), [Telegram](https://t.me/elenazavadich), [LinkedIn](https://www.linkedin.com/in/elenazavadzich/).
