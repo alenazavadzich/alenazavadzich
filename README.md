@@ -7,8 +7,6 @@
 ### About me
 I am manual **QA Engineer**. I specialise in web and mobile testing.
 
-To know more about my professional experience check out my [Resume](https://drive.google.com/file/d/1fSL-HTb6gBRQATDaZUIY_v5k9IcXe4PB/view?usp=sharing).
-
 I am open to a new opportunities.
 
 Contact me by [Email](mailto:ellenzavadich@yahoo.com), [Telegram](https://t.me/elenazavadich), [LinkedIn](https://www.linkedin.com/in/elenazavadzich/).
